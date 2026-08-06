@@ -5,9 +5,5 @@ youtube-ai-discord-automation/
 ├── LICENSE
 ├── .gitignore
 │
-├── images/
-│   ├── workflow.png
-│   ├── architecture.png
-│
 └── docs/
     └── setup.md
