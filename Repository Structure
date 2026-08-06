@@ -1,0 +1,13 @@
+youtube-ai-discord-automation/
+│
+├── workflow.json
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── images/
+│   ├── workflow.png
+│   ├── architecture.png
+│
+└── docs/
+    └── setup.md
